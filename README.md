@@ -1,6 +1,6 @@
 # MSKD-Net: Knowledge Distillation with Multi-Scale Spatial Alignment for Efficient Remote Sensing Change Detection
 
-PyTorch implementation of a lightweight change detection model that distills the Visual change Transformer (VcT) teacher into a compact MobileNetV2-based student.
+PyTorch implementation of a lightweight change detection model that distils the Visual change Transformer (VcT) teacher into a compact MobileNetV2-based student.
 
 This work builds upon **VcT** [Jiang et al., IEEE TGRS 2023] — [[arXiv](https://arxiv.org/abs/2310.11417)] [[IEEE](https://ieeexplore.ieee.org/document/10294300)] — which serves as the teacher network.
 
