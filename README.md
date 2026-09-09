@@ -1,4 +1,4 @@
-# MSKD-Net: Knowledge Distillation with Multi-Scale Spatial Alignment for Efficient Remote Sensing Change Detection
+# LiteCD-NET: Lightweight Change Detection Network for Efficient Remote Sensing
 
 PyTorch implementation of a lightweight change detection model that distils the Visual change Transformer (VcT) teacher into a compact MobileNetV2-based student.
 
